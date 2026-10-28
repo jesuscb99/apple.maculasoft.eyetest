@@ -11,7 +11,7 @@ Esta Política de Privacidad describe cómo **VisiGames** ("la Aplicación") tra
 El responsable del tratamiento de datos relacionados con la Aplicación es:
 
 - **Nombre de la aplicación:** VisiGames
-- **Responsables:** Jesús Carreño Bolufer (Spain) y Rubén Cabrera Beyrouti (Spain)
+- **Desarrollador:** Jesús Carreño Bolufer (Spain) y Rubén Cabrera Beyrouti (Spain)
 
 ---
 
